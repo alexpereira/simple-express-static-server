@@ -11,7 +11,9 @@
     "url": "git://github.com/spadin/simple-express-static-server.git"
   },
   "author": "Sandro Padin",
-  "contributors" : [ "Luca Capra" ],
+  "contributors": [
+    "Luca Capra"
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/spadin/simple-express-static-server/issues"
